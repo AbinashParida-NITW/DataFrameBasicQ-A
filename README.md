@@ -1,4 +1,4 @@
-Basic DataFrame uses on Birds dataset
+Basic DataFrame functions use on Birds dataset
 
 1.series.duplicated() # bollean values given
 

@@ -1,4 +1,5 @@
 Basic DataFrame uses on Birds dataset
+
 1.series.duplicated() # bollean values given
 
 2.df.drop_duplicates() # drop dulicated rows from dataframe
